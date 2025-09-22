@@ -6,11 +6,8 @@ This is a personal portfolio website project designed to showcase your work and 
 
 ```
 personal-portfolio-website
-├── src
+├── gemini
 │   ├── assets          # Folder for images, fonts, and other media assets
-│   ├── components      # Contains reusable HTML components
-│   │   ├── Header.html # Header section with navigation links
-│   │   └── Footer.html # Footer section with copyright information
 │   ├── styles          # Folder for CSS styles
 │   │   └── main.css    # Main stylesheet for the website
 │   ├── scripts         # Folder for JavaScript files
